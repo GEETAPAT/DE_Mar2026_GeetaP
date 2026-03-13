@@ -1,1 +1,1 @@
-# DE_Mar2026_GeetaP
+This is a practice repo for data engineering class
